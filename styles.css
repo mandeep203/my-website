@@ -121,9 +121,10 @@ ul li a:hover {
 
 .profile-img {
     border-radius: 50%;
-    width: 220px;
-    height: 220px;
+    width: 200px;
+    height: 200px;
     margin-right: 40px;
+    margin-left: 40px;
 }
 
 .header-text {
