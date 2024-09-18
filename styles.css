@@ -18,7 +18,7 @@ header {
 .profile-img {
     border-radius: 50%;
     width: 220px;  /* Increased size */
-    height: 2200px;  /* Increased size */
+    height: 220px;  /* Increased size */
     margin-right: 40px;  /* Increase space between image and text */
     margin-left: 20px;  /* Move the image slightly to the left */
 }
@@ -121,9 +121,9 @@ ul li a:hover {
 
 .profile-img {
     border-radius: 50%;
-    width: 120px;
-    height: 120px;
-    margin-right: 20px;
+    width: 220px;
+    height: 220px;
+    margin-right: 40px;
 }
 
 .header-text {
