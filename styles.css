@@ -17,10 +17,10 @@ header {
 
 .profile-img {
     border-radius: 50%;
-    width: 220px;  /* Increased size */
-    height: 220px;  /* Increased size */
-    margin-right: 40px;  /* Increase space between image and text */
-    margin-left: 20px;  /* Move the image slightly to the left */
+    width: 200px;  /* Increased size */
+    height: 200px;  /* Increased size */
+    margin-right: 600px;  /* Increase space between image and text */
+    margin-left: 30px;  /* Move the image slightly to the left */
 }
 
 
