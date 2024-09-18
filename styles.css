@@ -21,7 +21,7 @@ header {
     width: 200px;
     height: 200px;
     margin-right: 40px;
-    margin-left: 20px;
+    margin-left: -20px;
 }
 
 /* Header Text */
